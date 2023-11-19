@@ -1,0 +1,14 @@
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.AssemblyInfoInputs.cache
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.AssemblyInfo.cs
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\bin\Release\net6.0\ChatClient.exe
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\bin\Release\net6.0\ChatClient.deps.json
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\bin\Release\net6.0\ChatClient.runtimeconfig.json
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\bin\Release\net6.0\ChatClient.dll
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\bin\Release\net6.0\ChatClient.pdb
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.dll
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\refint\ChatClient.dll
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.pdb
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ChatClient.genruntimeconfig.cache
+C:\Users\vdangela\OneDrive - Argontech SRL\Escritorio\Documentos\IFTS\2do 2023\Clases\6\Ejemplos\ChatServer\ChatClient\obj\Release\net6.0\ref\ChatClient.dll
